@@ -1,2 +1,1 @@
-# BoiPustok
-BoiPustok
+# Boi-Pustok

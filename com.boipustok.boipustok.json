@@ -3,112 +3,112 @@
     {
       "id": "10000000",
       "parent_id": "0",
-      "title": "bangladhadha",
+      "title": "ধাঁধা",
       "icon": null,
       "sort_weight": "1341"
     },
     {
       "id": "10000001",
       "parent_id": "0",
-      "title": "boishakhi_sms",
+      "title": "এস.এম.এস",
       "icon": null,
       "sort_weight": "1342"
     },
     {
       "id": "10000002",
       "parent_id": "0",
-      "title": "Mobiletips_mobileservice",
+      "title": "ইংরেজি আলাপন",
       "icon": null,
       "sort_weight": "1343"
     },
     {
       "id": "10000003",
       "parent_id": "0",
-      "title": "bangla_jokes",
+      "title": "জোকস",
       "icon": null,
       "sort_weight": "1344"
     },
     {
       "id": "10000004",
       "parent_id": "0",
-      "title": "islamicnamesandmeaningbangla",
+      "title": "ইসলামিক নাম",
       "icon": null,
       "sort_weight": "1345"
     },
     {
       "id": "10000005",
       "parent_id": "0",
-      "title": "bangla_namaj_shikkha",
+      "title": "হাদীসের গল্প",
       "icon": null,
       "sort_weight": "1346"
     },
     {
       "id": "10000006",
       "parent_id": "0",
-      "title": "bangla_hadiser_golpo",
+      "title": "নামাজের সূরা ও দোয়া",
       "icon": null,
       "sort_weight": "1347"
     },
     {
       "id": "10000007",
       "parent_id": "0",
-      "title": "bangla_low_act",
+      "title": "আইন কানুন",
       "icon": null,
       "sort_weight": "1348"
     },
     {
       "id": "10000008",
       "parent_id": "0",
-      "title": "bangla_math_formula",
+      "title": "গণিতের সূত্র",
       "icon": null,
       "sort_weight": "1349"
     },
     {
       "id": "10000009",
       "parent_id": "0",
-      "title": "bangla_success_tips",
+      "title": "সফল হওয়ার উপায়",
       "icon": null,
       "sort_weight": "1350"
     },
     {
       "id": "10000010",
       "parent_id": "0",
-      "title": "banglaquotes",
+      "title": "জীবন পরিবর্তন হওয়ার বাণী",
       "icon": null,
       "sort_weight": "1351"
     },
     {
       "id": "10000011",
       "parent_id": "0",
-      "title": "chotoder_rupkothar_golpo",
+      "title": "শিশুদের রূপকথার গল্প",
       "icon": null,
       "sort_weight": "1352"
     },
     {
       "id": "10000012",
       "parent_id": "0",
-      "title": "englishlearninginbangla",
+      "title": "ইংরেজি শিখার পদ্ধতি",
       "icon": null,
       "sort_weight": "1354"
     },
     {
       "id": "10000013",
       "parent_id": "0",
-      "title": "icchashokti",
+      "title": "ইচ্ছাশক্তি বাড়াবেন যেভাবে",
       "icon": null,
       "sort_weight": "1355"
     },
     {
       "id": "10000014",
       "parent_id": "0",
-      "title": "mobilephonetipsbangla",
+      "title": "স্মার্টফোনের সমস্যা সমাধান",
       "icon": null,
       "sort_weight": "1356"
     },
     {
       "id": "10000015",
       "parent_id": "0",
-      "title": "obakprithibi",
+      "title": "রহস্যময় পৃথিবী",
       "icon": null,
       "sort_weight": "1357"
     },
@@ -122,7 +122,7 @@
 	{
       "id": "10000017",
       "parent_id": "0",
-      "title": "human body info",
+      "title": "মানবদেহের গুরুত্বপূর্ণ তথ্য",
       "icon": null,
       "sort_weight": "1359"
     },

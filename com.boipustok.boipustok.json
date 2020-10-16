@@ -3,7 +3,7 @@
     {
       "id": "10000000",
       "parent_id": "0",
-      "title": "ধাঁধা",
+      "title": "মজার মজার ধাঁধা",
       "icon": null,
       "sort_weight": "1341"
     },
@@ -17,7 +17,7 @@
     {
       "id": "10000002",
       "parent_id": "0",
-      "title": "ইংরেজি আলাপন",
+      "title": "ইংরেজি কথোপকথন",
       "icon": null,
       "sort_weight": "1343"
     },
@@ -12908,6 +12908,6 @@
       "total_down_vote": "0"
     }
   ],
-  "app_data_date_time": "2020-10-16 02:07:36",
+  "app_data_date_time": "2020-10-17 02:07:36",
   "success": true
 }
